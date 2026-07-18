@@ -1,0 +1,10 @@
+stoneAndChalkSchedulingProject/terraform.tfvars
+
+database/terraform-app.crt
+database/terraform-app.key
+database/terraform-app.pfx
+database/terraform-app.pem
+
+database/.env
+
+database/.terraform*
